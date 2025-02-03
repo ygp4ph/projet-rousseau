@@ -1,6 +1,6 @@
 # Projet Voltaire - Surveillance et vérification de phrase
 
-Ce script Tampermonkey surveille les phrases affichées sur le site du Projet Voltaire et utilise l'API de LanguageTool pour vérifier les erreurs grammaticales et orthographiques. Les résultats de la vérification sont affichés dans la console du navigateur avec un taux de réussite de 89% selon les tests.
+Ce script Tampermonkey surveille les phrases affichées sur le site du Projet Voltaire et utilise l'API de LanguageTool pour vérifier les erreurs grammaticales et orthographiques. Les résultats de la vérification sont affichés dans la console du navigateur avec un taux de réussite de 89% selon les tests. Le second scripte 7spkg est sensiblement similaire mais est taillé pour 7speaking.
 
 ## Installation
 
